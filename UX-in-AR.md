@@ -3,7 +3,7 @@
 
 ## Overview
 
-AR promises to be different. With it, we can finally bridge the gap between the worlds of bits and atoms. Our reality becomes electronic, and with that, it becomes computable and manipulable. But current UX practices aren’t ready for this. What does a cursor look like in the real world? How do you interact with an object physically and digitally at the same time? 
+AR promises to be different. With it, we can fully bridge the gap between the worlds of bits and atoms. Our reality becomes electronic, and with that, it becomes computable and manipulable. But current UX practices aren’t ready for this. What does a cursor look like in the real world? How do you interact with an object physically and digitally at the same time? 
 
 We are going to explore what makes AR UX different from our current standard for screens. Then, we’ll discuss ways we can make excellent UX for AR.
 
@@ -23,11 +23,11 @@ However, getting AR UX right will take a lot of experimentation and work. We can
 
 ## Why will AR UX need to be different?
 
-**The real world is the screen. **Physical safety is not guaranteed. Clicking a button on a phone screen will do no physical harm to you. But interacting with a physical object (say a metal sign) could. Additionally, digital overlays may occlude real objects. Not seeing a car coming at you because a digital ad occluded it may be life-or-death.
+**The real world is the screen.** Physical safety is not guaranteed. Clicking a button on a phone screen will do no physical harm to you. But interacting with a physical object (say a metal sign) could. Additionally, digital overlays may occlude real objects. Not seeing a car coming at you because a digital ad occluded it may be life-or-death.
 
 **The display isn’t touchable.** Picture how smudgy and dirty AR glasses would get if people touched the lenses all day long. All current mobile UX assumes a touchscreen. Laptop/desktop UX doesn’t assume that but the use cases are different from those of AR’s; AR will be on-the-go.
 
-**Social stigma limits interaction models. **Imagine seeing someone in public swinging their arms wildly and gesticulating to no one in particular. You would probably give them a wide berth or avoid them altogether. This is what people may think when they see you using hand gestures for AR glasses; social stigma limits the use of this interaction model.
+**Social stigma limits interaction models.** Imagine seeing someone in public swinging their arms wildly and gesticulating to no one in particular. You would probably give them a wide berth or avoid them altogether. This is what people may think when they see you using hand gestures for AR glasses; social stigma limits the use of this interaction model.
 
 **Sparseness is mandatory.** Imagine trying to even walk down the sidewalk if your entire field-of-view was covered with digital overlays. Facebook messages, Yelp recommendations, and TikTok videos could obstruct your vision. Alternatively, imagine you’re on a date. How annoying would it be if LinkedIn pulled up your date’s profile (or everyone in the bar’s profile) every 15 seconds or every time you glanced around. You’d hardly be able to focus and before you know it, the date is over with no shot of a second one. 
 
@@ -46,7 +46,7 @@ So, we will need new interaction models for AR. For that, we must remind ourselv
 
 **Sensical.** The interaction movement must make sense for the action. Selecting an object shouldn’t require a swipe-down. This also helps counteract social stigma. Random, herky-jerky movements look crazy. Fluid points and swipes look like technology interactions.
 
-**Visual field == Interactive field. **This isn’t a de facto standard but I think it will be paramount for AR. It means that you can directly interact with what you see just with your body. This doesn’t apply to computers. There, the visual field is the screen and the interactive field is the mouse/trackpad. They are at 90º from each other and need a cursor to map between each other. Imagine having to use a cursor to interact with the real world. That would break immersion pretty quickly.
+**Visual field == Interactive field.** This isn’t a de facto standard but I think it will be paramount for AR. It means that you can directly interact with what you see just with your body. This doesn’t apply to computers. There, the visual field is the screen and the interactive field is the mouse/trackpad. They are at 90º from each other and need a cursor to map between each other. Imagine having to use a cursor to interact with the real world. That would break immersion pretty quickly.
 
 
 ## Types of Interactions
@@ -70,14 +70,14 @@ I think there will be two dominant modes of using AR: one where it’s the focus
 
 **Main Focus Mode:** Here, your attention is primarily on the digital experience. This will be akin to having a phone/laptop in front of your eyes. You could edit documents, watch YouTube, or scroll TikTok. Usually, you’d be in private settings here so fear of social stigma doesn’t matter. So, more interaction models are possible here.
 
-**Discreet Mode: **Here, your attention is not primarily on the digital experience. You may be navigating somewhere, on a date, networking, or countless other things. This is where AR promises to shine, by providing you information that helps you in your primary activity (e.g. helping you remember people’s names & occupations at a networking event). However, you’re likely to be in public here and social stigma matters. This means that the UX has to be discreet. You don’t want to get distracted and you don’t want others to think you’re distracted either. This limits the interaction models to those that look like natural, non-distracted movements. Additionally, the UX here has to be sparse and predictive, as mentioned before so that you get only the information you need without distracting.
+**Discreet Mode:** Here, your attention is not primarily on the digital experience. You may be navigating somewhere, on a date, networking, or countless other things. This is where AR promises to shine, by providing you information that helps you in your primary activity (e.g. helping you remember people’s names & occupations at a networking event). However, you’re likely to be in public here and social stigma matters. This means that the UX has to be discreet. You don’t want to get distracted and you don’t want others to think you’re distracted either. This limits the interaction models to those that look like natural, non-distracted movements. Additionally, the UX here has to be sparse and predictive, as mentioned before so that you get only the information you need without distracting.
 
 
 ## Good Interaction Models
 
 There are two good interaction models that really make sense for AR glasses, one corresponding to each mode above. They follow the UX principles listed previously. They also are achievable in the short-term. Let’s take a look.
 
-**Hand Tracking: **AR glasses (using their built-in cameras) can track the position and orientation of your hands. You can then use your hands to interact with objects in your FOV. This will be the dominant interaction model for Main Focus Mode. Here are some examples:
+**Hand Tracking:** AR glasses (using their built-in cameras) can track the position and orientation of your hands. You can then use your hands to interact with objects in your FOV. This will be the dominant interaction model for Main Focus Mode. Here are some examples:
 
 
 
@@ -86,7 +86,7 @@ There are two good interaction models that really make sense for AR glasses, one
 * Zoom in — grab the object with 2 hands and pull diagonally
 * Rotate an object — make circles with your finger
 
-**Gaze Tracking: **Outward and inward-facing cameras can track where your eyes are looking. You can then use gaze to interact with objects. This will be the dominant interaction model for Discreet Mode. Here are some examples:
+**Gaze Tracking:** Outward and inward-facing cameras can track where your eyes are looking. You can then use gaze to interact with objects. This will be the dominant interaction model for Discreet Mode. Here are some examples:
 
 
 
@@ -171,190 +171,6 @@ Pointing and Clicking will be the most important interactions because users will
 2. Depth errors: Are you looking at the digital overlay or the real object that happens to be behind it? One potential solution may be in pupil dilation/aperture. This solution can also help with distinguishing between focused gazes and deep-in-thought blank stares.
 3. Haptics: There will also be no tactile feedback on interactions here. Vibration of the glasses may help though.
 
-**Brainstorm**
-
-
-
-* Aka, how will we interact with AR glasses?
-    * Brainstorm list:
-        * Eye motion
-        * Facial motions
-        * Brain computer interface
-        * Speech 
-        * Throat motions
-        * Finger motions
-        * Physical controller
-        * Shaking the head
-        * Blinking
-        * Things we reach out to/touch
-        * Twitching our feet
-        * Magnetic implants in our fingers
-        * Moving our mouths slightly
-        * Physical controller that’s also a status symbol
-        * Watch
-        * Maybe the glasses will interact with us, we don’t need to control them
-        * Lifting weights
-        * Staring at a fixed point = put cursor there
-        * Swipe to unlock
-        * Left hand palm is a control surface
-        * Tongue motions
-        * Our phones (but only the touchscreen)
-* What is a user’s mental model for interaction?
-    * Discreet
-    * Energy efficient
-    * Don’t need extra accessories
-        * This is important — there should be no risk of bringing the headset but not being able to use it because you forgot the accessory.
-        * At the very least, the accessory should be built into the headset.
-    * Feedback
-        * Why is this important? Helps users know that their action was registered and received by the system.
-    * Smooth (linear interactions, not 0-1)
-    * Phone interaction standards will be what users think of first
-    * Low latency
-    * High precision
-    * Degrees of freedom
-    * Intuitive (follows what we do naturally, with real physical objects)
-    * Interaction should not be the focus (assuming there’s good content. If no good content, then delightful interaction can help).
-    * Cursor or not?
-        * Seems like a cursor is necessary when the visual field and the interactive field aren’t the same. (e.g. you can’t tap on the computer screen, you need to use a mouse but a mouse’s plane of use is infinite whereas the computer screen is finite).
-    * Also, the interactions will need to be compatible with existing web content.
-    * What are the basic interactions?
-        * Select an object
-        * Text input
-        * Move an object
-        * Scroll
-        * Remove an object (speed of removal must be high. P0)
-    * What is special about the AR headset compared to other computing devices (in terms of interaction)?
-        * The real world is interactable
-        * You cannot tap on the display (glass)
-        * There are tracking cameras
-        * People may not know if you’re interacting with the headset
-        * Compute power onboard will be limited at first
-        * Most interactions will be quick. People aren’t going to be scrolling long webpages while walking around.
-            * Relatedly, most interactions won’t be deep. A quick “continue” or “dismiss” may be the majority of cases. Why?
-                * People are using these glasses while doing other things (e.g. talking to people). They don’t have mental bandwidth to be searching for items or deep interaction.
-                * On second thought, these use cases will be what AR glasses uniquely enable but they may not be the majority. People still might use their glasses as they would a phone (focusing on the phone’s content at the expense of their surroundings).
-                    * Someone might scroll reddit on their headset while they walk.
-                * Do people multitask with their phones?
-                    * Among my friend group, not really. They either focus on their phone or on something else. Not both.
-* Should interaction design be tailored towards different use cases or have a holistic philosophy?
-    * Why can’t it be both?
-    * I think bottoms-up followed by coalescent top-down is a good approach.
-* Transience is key. For many use cases, we don’t need information to persist longer than it takes someone to read it.
-    * Time-boxed info — disappears automatically after X seconds. 
-        * Downside is this puts the user in a race against time to consume information.
-    * Eye focus — if user reads it then looks elsewhere, dismiss.
-        * Downside is user may not think looking elsewhere means dismiss.
-    * Opt-in to info — a user has to open up the info box. The info box will then persist until the user chooses to close it.
-* For more persistent use cases (where the user consciously chooses it), how will we go about that?
-    * The same movements I bet.
-        * Why? Otherwise it takes thought on the part of the user.
-* Eye focus is important. We don’t want transient information about everything in the environment popping up.
-    * Whatever you’re looking at should be the thing that gets information popped up.
-* Given this mental model, what modalities work?
-    * Phone as a touchscreen
-        * Not that discreet
-        * Easy for users to pick up — same motions as they already do
-        * However, if I want to select a small icon in the upper right of my FOV, how do I know where on the phone touchscreen to tap?
-* What is the framework at play?
-    * What are the underlying principles?
-        * Interaction should be easy and second-nature.
-    * Intuitivity is learnable but the more intuitive headset is the one that will get bought, all other things equal.
-    * The interaction should fade into the background — your brain shouldn’t have to think about it.
-    * You don’t want to look like you’re fidgeting or crazy (e.g. wild hand gestures). This is ok on a phone because people know you’re interacting with the phone. They may not know you’re interacting with your AR headset.
-    * The interaction should be energy-efficient. It shouldn’t require a whole arm movement to move something or zoom in.
-    * Should interactions be atomic? As in, not often interrupted.
-    * Visual field == interactive field? Why is this important?
-        * Feels more intuitive. 
-        * If your goal is to augment reality, putting a cursor there breaks immersion.
-        * OTOH, don’t controllers become part of the body? Doesn’t our mind quickly adapt to using them?
-        * I think people also expect to be able to manipulate objects in AR directly.
-* It seems like using hands to control will be very important. But discreetness is lost with hands.
-    * When is discreetness needed?
-        * When in public or when focusing on multiple things.
-* What about typing?
-    * Eye swyping
-    * Hand tracking
-    * Speech
-    * Choose character or word? 
-        * The standard is choosing characters on a keyboard. So replicating that speed is important. But also, it may be some time before users need to type a lot on AR glasses.
-    * What if we use GPT-3 to come up with good responses automatically?
-* How do we do eye movements?
-    * Stare at something to click on it
-    * Move your eyes Left-Right to dismiss something. Up-Down to click on it. This hurts eyes though. People don’t have muscles like that.
-    * Make small motions with your eyes. I actually think motions are easier when there’s a line for the user to follow.
-        * But what about people with eye problems? Eh we can deal with that later.
-        * Will we need a cursor for the eyes? Doesn’t have to be a traditional cursor. Could just be a laser pointer to show where the system thinks your eyes are looking.
-            * But this sorta defeats the point of not having a cursor so that visual field == interactive field.
-        * People won’t need a cursor because people know where their eyes are pointing.
-    * Maybe the eyes focusing tells the system where the user is focusing. But the user can wear a little ring with a button to actually click.
-        * This seems less attractive though — the system isn’t self-contained.
-    * How do we distinguish users looking at certain points for more info vs. daydreaming/staring into the distance/or even looking at something in reality that happens to be there?
-        * Maybe the ways their eyes are focused vs. unfocused
-    * With eye tracking, interactions are harder. You can’t have actions nested 4 clicks deep because it will take effort for the user to get there.
-* What about neuro-modalities? E.g. Sensors that detect if your neurons fired so you can click without having to actually move your fingers.
-    * We are very far from this. But can the same be said of eye tracking and hand-tracking technology?
-        * No, I think those are both a lot more advanced.
-        * Angular error for Gaze estimation is 3º (SOTA). At a distance of 5m, that’s 0.4m radius of error.
-* Haptics / feedback will be an issue
-* Let’s focus on intuitive and efficient.
-    * Eye movements
-        * Very efficient — you move your eye an inch, you’re looking at a completely different part of your FOV.
-        * Intuitive — your eyes indicate focus automatically
-* The user experience is important for AR glasses adoption.
-    * Google Glass suffered poor UX. This in part led to its failure.
-    * There are many different companies working on AR glasses — UX will be a key differentiator for them.
-* UX will be novel for AR glasses.
-    * The real world is the screen. 
-    * The display isn’t directly touchable.
-    * There may not be visual indicators that someone is using AR glasses.
-    * Clutter will be deadly.
-    * AR glasses will need to be predictive, not reactive.
-    * Interaction has higher costs.
-* Principles of interaction
-    * Intuitive
-    * Efficient
-    * Sensical
-    * Interactive field == visual field
-        * Otherwise breaks immersion
-        * For computers, the digital world is immersed in the screen. For AR, the physical world is the screen so making it too digital breaks immersion.
-* Two modes of AR — discreet/multi-tasking vs. solo focus
-    * Discreet — public, doing other things. This is truly where AR shines, bringing information to you as you need it.
-    * Solo focus — this is like having a weightless phone. Still cool, but not the main reason to get AR.
-* The two modes of interaction
-    * Gaze-tracking
-    * Hand-tracking
-* Gaze tracking
-    * CV-based, angular error up to 3 degrees
-    * What would this look like?
-        * Looking at points to interact
-        * Looking away from points to de-focus them
-    * Issues
-        * Unintentional looking
-        * Overlays on environment need to be carefully selected
-        * Depth / are you looking at background or overlay
-        * Haptics
-* Hand tracking
-    * CV-based
-    * What would this look like?
-        * Rays from hands for distant objects
-        * Actual manipulation with hands for near objects
-    * Issues
-        * Depth
-        * Your hands vs. someone else’s hands
-        * Can require energy
-        * Not accessible
-        * Haptics
-* Other interfaces
-    * Neuro
-        * Thoughts vs. actions
-        * Privacy
-    * Voice
-        * No one uses it
-        * Social stigma
-    * Physical controller
-        * Likely the near-term choice
-        * Feels like a video game
-        * You’re not interacting with the real world though.
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
