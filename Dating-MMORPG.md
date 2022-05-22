@@ -10,8 +10,10 @@ A dating-focused game, specifically an MMORPG, will let us do exactly this. It w
 
 *MMORPG — massively multiplayer online role playing game. Players control a customizable character in an open world with a focus on leveling up their character, interacting with others, and completing quests.*
 
+<pre>
 
 
+</pre>
 **Core Values**
 
 Dating should be fun. It is not supposed to feel like drowning in an ocean. It is not supposed to feel like dying of thirst in a barren desert.
@@ -19,6 +21,11 @@ Dating should be fun. It is not supposed to feel like drowning in an ocean. It i
 Dating should be limited. Making everyone able to talk to everyone at the push of a button leads to immense imbalance in the dating market.
 
 Dating setup should be minimized. People intrinsically want to go on exciting dates. They don’t want to spend much time matching with many people, vetting them, and setting up logistics.
+
+<pre>
+
+
+</pre>
 
 **Problems with current dating apps**
 
@@ -35,6 +42,11 @@ Current dating apps don’t make it easy to find high quality matches. They face
 Ghosting occurs all too often when people try to meet up. Dating apps often have no way to verify whether ghosting occurred or not so they can’t punish ghosters.
 
 So, how do we fix these issues?
+
+<pre>
+
+
+</pre>
 
 **A Dating MMORPG**
 
@@ -59,6 +71,11 @@ _Dating profiles suck:_ people don’t spend a lot of time creating their dating
 _Current dating apps focus on return usage and monetization:_ here again, games provide a win-win solution. The goal here is for users to return to the game, not necessarily to date though. For example, if users are fed up of dating, they can play through solo quests or quests with friends. Even better, if two users end up being a couple, they can still do quests together on the MMO as part of their relationship or dating life. In this way, it’s a good MMO first, good dating app second. The best part is we don’t need to restrict users’ dating in order to have this return usage: MMOs are fun by themselves. We can focus on MMO-related monetization instead of dating-app-related monetization. Instead of charging for extra swipes, we can sell cool avatar accessories or quest items. Instead of showing a “Most Compatible of the Day” everyday, we can have new quests to play. Instead of having users pay to show interest in top-tier users, we can sell DLC. Users will still pay, but they won’t feel like they have to pay just to stand a chance in dating. They’ll feel like they’re paying to enjoy a fun game.
 
 _Apps can’t detect and punish ghosting:_ in the MMO, the first date is the quest. It’ll be easy to detect if a user didn’t show up to an accepted quest. We can punish this with lower health or attack stats, for example.
+
+<pre>
+
+
+</pre>
 
 **Why isn’t someone already doing this?**
 
