@@ -31,15 +31,27 @@ Dating setup should be minimized. People intrinsically want to go on exciting da
 
 There are huge imbalances in the market. First, the Male:Female ratio is wildly unbalanced—70:30 on average. By itself, this fact means the average woman will receive a lot of interest and the average male will receive little. 
 
+&nbsp;
+
 Dating apps are easy and dopamine-driven. Everyone is no more than a swipe, tap, or a “hey” away. So, men end up spamming likes in a shotgun approach. This leads to the average woman receiving far too many matches to sort through. Conversely, the average man has to swipe a lot to receive even one match. If you believe in “leagues” (which I do, although they are far fuzzier than most people think), women receive more matches from people above their league. In that case, why would you accept a match from someone in your league when there are higher-league people matching with you? So, men receive fewer matches from people in their league than they might in the real world. Of course, this isn’t great for women either. Getting hundreds of matches a week is _exhausting_. Plus, they’re usually low-effort. You’d need a personal assistant just to weed out the uninteresting matches. Overall, women get unbearable amounts of attention; men get almost none.
+
+&nbsp;
 
 Swiping is easier than conversing with your existing matches. Intermittent reward schedules (where an action is rewarded at random times) form addictions—just think of gambling. Swiping is gambling (for men, at least). Even worse, there’s no cost to swiping. You have nothing to lose and everything to gain. Conversing with a match, on the other hand, is hard and risky. If you don’t say the right things, you lose that match. And creativity is hard, especially with the limited information on profiles. Even Hinge, with its 3 prompts, doesn’t give all that much to work with. Additionally, the ease of swiping means that FOMO is amplified. If a conversation slightly dips in quality, then there’s another match waiting around the corner.
 
+&nbsp;
+
 Dating profiles suck. It’s hard to encapsulate yourself in 6 photos and 3 prompts. It’s even harder to get good photos and to think of good prompts. It takes a lot of time to create a good profile and users don’t have the patience to do that.
+
+&nbsp;
 
 Current dating apps don’t make it easy to find high quality matches. They face the above problems too, but on top of that, they have an inherent need for profitability. This leads to match restrictions (limited number of swipes, paying to match with certain people). This has 2 effects: people who don’t pay get frustrated with the limitations, and people who do pay still don’t see great results because of the other mentioned problems. Both think paying for premium is not worth it.
 
+&nbsp;
+
 Ghosting occurs all too often when people try to meet up. Dating apps often have no way to verify whether ghosting occurred or not so they can’t punish ghosters.
+
+&nbsp;
 
 So, how do we fix these issues?
 
